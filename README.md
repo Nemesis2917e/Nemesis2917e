@@ -9,11 +9,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemesis2917e&show_icons=true&locale=en&layout=compact" alt="nemesis2917e" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nemesis2917e&show_icons=true&locale=en" alt="nemesis2917e" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nemesis2917e&" alt="nemesis2917e" /></p>
 
 ###
 <br><br><br>
