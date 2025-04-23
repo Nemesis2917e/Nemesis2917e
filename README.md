@@ -7,6 +7,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nemesis2917e&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nemesis2917e&show_icons=true&locale=en&layout=compact" alt="nemesis2917e" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nemesis2917e&show_icons=true&locale=en" alt="nemesis2917e" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nemesis2917e&" alt="nemesis2917e" /></p>
+
 ###
 <br><br><br>
 <div align="left">
