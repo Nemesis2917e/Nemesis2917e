@@ -39,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 <br><br><br>
-###
 
 <div align="left">
   <a href="https://youtube.com/@artist_469?si=sR6F8UZ-n05jUFIV" target="_blank">
