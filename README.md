@@ -10,8 +10,6 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nemesis2917e&" alt="nemesis2917e" /></p>
-
 
 ###
 <br><br><br>
