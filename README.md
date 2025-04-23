@@ -57,7 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nemesis2917e/Nemesis2917e/output/snake.svg" alt="Snake animation" />
 
 ###
 
